@@ -1,1 +1,1 @@
-# github-portfolio
+# GitHub Portfolio WordPress Plugin
